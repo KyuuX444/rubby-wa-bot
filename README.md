@@ -58,6 +58,13 @@ Halaman khusus role `OWNER` untuk memantau statistik global seluruh bot, menguba
 
 ![Owner Panel Preview](docs/screenshots/owner-panel.png)
 
+### 6. Interactive WhatsApp Bot Menu (`ButtonV2`)
+Tampilan menu interaktif `/menu` langsung di aplikasi WhatsApp menggunakan komponen `ButtonV2` dari `ruby-baileys` lengkap dengan thumbnail header, status role & uptime, daftar command per kategori, serta tombol interaktif (`PILIH MENU` & `OWNER`).
+
+<div align="center">
+  <img src="docs/screenshots/bot-menu-preview.png" alt="Bot Menu Preview" width="380" />
+</div>
+
 ---
 
 ## Key Features
