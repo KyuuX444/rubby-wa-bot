@@ -1,0 +1,26 @@
+{
+  "name": "Rubby WA Bot — WhatsApp Bot Manager",
+  "short_name": "Rubby WA Bot",
+  "description": "Multi-user platform to create, connect, and manage WhatsApp bots powered by ruby-baileys.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#171717",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

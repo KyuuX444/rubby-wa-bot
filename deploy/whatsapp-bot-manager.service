@@ -1,0 +1,20 @@
+[Unit]
+Description=WhatsApp Bot Manager Full-Stack Server
+After=network.target postgresql.service
+Requires=postgresql.service
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/jadibot
+Environment=NODE_ENV=production
+EnvironmentFile=/root/jadibot/.env
+ExecStart=/usr/bin/node /root/jadibot/dist/server/index.js
+Restart=always
+RestartSec=5
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=whatsapp-bot-manager
+
+[Install]
+WantedBy=multi-user.target
