@@ -1,0 +1,62 @@
+RUBBY WA BOT — NON-COMMERCIAL & CREATOR ATTRIBUTION LICENSE (NOT FOR SALE)
+
+Copyright (c) 2026 Kyuu (@KyuuX444 — https://github.com/KyuuX444 | https://api.kyzzz.xyz)
+All Rights Reserved.
+
+================================================================================
+KETENTUAN LISENSI & PENGGUNAAN (BAHASA INDONESIA)
+================================================================================
+
+Perangkat lunak dan source code "Rubby WA Bot" (WhatsApp Bot Manager) ini
+dibagikan secara GRATIS untuk tujuan penggunaan pribadi, edukasi, komunitas,
+dan pengembangan terbuka dengan syarat dan ketentuan mutlak berikut:
+
+1. DILARANG DIPERJUALBELIKAN (STRICTLY NOT FOR SALE)
+   - Anda DILARANG KERAS menjual, menyewakan akses berbayar atas source code
+     ini, mendistribusikan ulang secara komersial, atau memperjualbelikan
+     source code ini (baik dalam bentuk asli maupun yang telah dimodifikasi)
+     dengan alasan apa pun.
+   - Source code ini 100% GRATIS dari Creator asli.
+
+2. WAJIB MENCANTUMKAN CREATOR ASLI (MANDATORY CREATOR ATTRIBUTION)
+   - Setiap penggunaan, deployment, fork, atau modifikasi dari proyek ini WAJIB
+     mempertahankan atribusi/kredit Creator asli di dalam tampilan website
+     (Landing Page, Auth Page, Dashboard Footer) maupun di dalam respon bot
+     WhatsApp (/menu, /status, dan log sistem):
+       * Creator  : Kyuu
+       * GitHub   : https://github.com/KyuuX444
+       * Website  : https://api.kyzzz.xyz
+       * Channel  : https://whatsapp.com/channel/0029VbDXYlKDJ6H1D7Dm0f13
+   - DILARANG menghapus, menyembunyikan, atau mengganti nama Creator asli
+     (Kyuu / @KyuuX444) seolah-olah proyek ini dibuat oleh pihak lain.
+
+3. PENafian JAMINAN (DISCLAIMER OF WARRANTY)
+   - Perangkat lunak ini disediakan "SEBAGAIMANA ADANYA" ("AS IS"), tanpa
+     jaminan apa pun. Creator tidak bertanggung jawab atas penyalahgunaan
+     atau pelanggaran ketentuan layanan pihak ketiga oleh pengguna.
+
+================================================================================
+LICENSE TERMS & CONDITIONS (ENGLISH)
+================================================================================
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated source code ("Rubby WA Bot"), to use, study, and
+modify the Software for personal, educational, or free community purposes,
+subject to the following mandatory conditions:
+
+1. STRICTLY NOT FOR SALE (NON-COMMERCIAL SOURCE DISTRIBUTION)
+   - You may NOT sell, resell, rent, lease, sublicense, or commercially
+     redistribute this source code or any derivative/modified version of it.
+
+2. MANDATORY ORIGINAL CREATOR ATTRIBUTION
+   - The original creator credit ("Created by Kyuu — github.com/KyuuX444") and
+     copyright notice MUST remain intact and visibly displayed on all web pages,
+     dashboards, footers, and WhatsApp bot menu outputs in all copies or
+     substantial portions of the Software.
+   - Removing, obscuring, or replacing the original creator's identity or
+     claiming authorship of this codebase is strictly prohibited.
+
+3. NO WARRANTY
+   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+     IMPLIED. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY
+     CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.

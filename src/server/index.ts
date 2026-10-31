@@ -60,6 +60,8 @@ app.use(cookieParser());
 app.use((req, res, next) => {
   res.setHeader('Permissions-Policy', PERMISSIONS_POLICY_VALUE);
   res.setHeader('X-Permitted-Cross-Domain-Policies', 'none');
+  res.setHeader('X-Creator', 'Kyuu (https://github.com/KyuuX444)');
+  res.setHeader('X-License', 'NOT FOR SALE - Mandatory Creator Attribution');
 
   if (req.path.startsWith('/api/')) {
     res.setHeader('Cache-Control', 'no-store, no-cache, must-revalidate, private');
@@ -82,6 +84,8 @@ app.get('/api/health', (_req, res) => {
   res.json({
     status: 'ok',
     name: 'Rubby WA Bot',
+    creator: 'Kyuu (https://github.com/KyuuX444)',
+    license: 'NOT FOR SALE',
     uptime: Math.floor(process.uptime()),
     timestamp: new Date().toISOString(),
   });
@@ -193,7 +197,13 @@ async function bootstrap() {
     await recoverPersistedSessions();
 
     server.listen(PORT, '0.0.0.0', () => {
-      console.log(`Rubby WA Bot server listening on http://0.0.0.0:${PORT}`);
+      console.log('==============================================================');
+      console.log('  RUBBY WA BOT — MULTI-USER WHATSAPP BOT MANAGER');
+      console.log('  Original Creator : Kyuu (https://github.com/KyuuX444)');
+      console.log('  Website          : https://api.kyzzz.xyz');
+      console.log('  License          : STRICTLY NOT FOR SALE (FREE OPEN SOURCE)');
+      console.log(`  Server Listening : http://0.0.0.0:${PORT}`);
+      console.log('==============================================================');
     });
   } catch (error) {
     console.error('Failed to start server:', error);

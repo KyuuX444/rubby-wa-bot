@@ -626,8 +626,18 @@ export const LandingPage: React.FC = () => {
           </div>
 
           <div className="pt-6 flex flex-col sm:flex-row items-center justify-between text-[11px] text-[#666666] gap-2">
-            <span>Rubby WA Bot • Made by Kyuu (2026)</span>
-            <span className="font-mono">Multi-Device WhatsApp Cloud Runtime</span>
+            <span>
+              Rubby WA Bot • Original Creator:{' '}
+              <a
+                href="https://github.com/KyuuX444"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-semibold text-[#171717] hover:underline"
+              >
+                Kyuu (@KyuuX444)
+              </a>
+            </span>
+            <span className="font-mono">License: NOT FOR SALE • Multi-Device Runtime</span>
           </div>
         </div>
       </footer>

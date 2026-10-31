@@ -10,11 +10,18 @@
 [![Backend](https://img.shields.io/badge/Web%20API-TypeScript%20%2B%20Express-171717?style=for-the-badge)](https://nodejs.org/)
 [![Bot Runtime](https://img.shields.io/badge/Bot%20Core-JavaScript%20ESM-171717?style=for-the-badge)](https://nodejs.org/)
 [![Database](https://img.shields.io/badge/Database-PostgreSQL%2016-171717?style=for-the-badge)](https://www.postgresql.org/)
-[![Frontend](https://img.shields.io/badge/Frontend-React%2018%20%2B%20Tailwind-171717?style=for-the-badge)](https://react.dev/)
+[![License](https://img.shields.io/badge/License-NOT%20FOR%20SALE-171717?style=for-the-badge)](./LICENSE)
+[![Creator](https://img.shields.io/badge/Creator-Kyuu%20(%40KyuuX444)-171717?style=for-the-badge)](https://github.com/KyuuX444)
 
 </div>
 
 ---
+
+> [!IMPORTANT]
+> **LISENSI & KETENTUAN PENGGUNAAN (STRICTLY NOT FOR SALE)**
+> Source code **Rubby WA Bot** ini dibagikan secara **GRATIS** oleh **Kyuu (`@KyuuX444`)**.
+> 1. **DILARANG DIPERJUALBELIKAN (`NOT FOR SALE`)**: Dilarang keras menjual, memperjualbelikan, atau mengkomersialkan source code ini dalam bentuk asli maupun hasil modifikasi.
+> 2. **WAJIB MENCANTUMKAN CREATOR ASLI**: Setiap penggunaan, deployment, atau modifikasi **wajib tetap menampilkan atribusi Creator asli (`Kyuu` / `github.com/KyuuX444`)** pada halaman website maupun pada respon menu bot WhatsApp.
 
 ## Overview
 
@@ -179,6 +186,14 @@ Untuk menjalankan di latar belakang menggunakan **PM2**:
 pm2 start ecosystem.config.cjs
 pm2 save
 ```
+
+---
+
+## License & Creator Attribution
+
+Proyek ini dilisensikan di bawah **[RUBBY WA BOT NON-COMMERCIAL & CREATOR ATTRIBUTION LICENSE (NOT FOR SALE)](./LICENSE)**:
+- **Strictly Not For Sale**: Source code ini 100% gratis dan tidak boleh diperjualbelikan dengan alasan apa pun.
+- **Mandatory Creator Credit**: Wajib mempertahankan nama dan atribusi Creator asli (**Kyuu / `@KyuuX444`**) pada tampilan website dan bot.
 
 ---
 

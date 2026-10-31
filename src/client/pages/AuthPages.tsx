@@ -111,8 +111,8 @@ const AuthShell: React.FC<{
           </div>
 
           <div className="mt-8 pt-5 border-t border-white/10 flex items-center justify-between text-[11px] font-mono text-[#A3A3A3]">
-            <span>Rubby WA Bot</span>
-            <span>Engine: ruby-baileys</span>
+            <span>Creator: Kyuu (@KyuuX444)</span>
+            <span>NOT FOR SALE</span>
           </div>
         </div>
 
@@ -132,7 +132,16 @@ const AuthShell: React.FC<{
     </div>
 
     <footer className="py-4 px-4 text-center text-[11px] text-[#666666] border-t border-[#EAEAEA] bg-[#FFFFFF]">
-      Rubby WA Bot Platform — Multi-Device WhatsApp Manager
+      Rubby WA Bot Platform — Created by{' '}
+      <a
+        href="https://github.com/KyuuX444"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="font-semibold text-[#171717] hover:underline"
+      >
+        Kyuu (@KyuuX444)
+      </a>{' '}
+      • Free Open Source (NOT FOR SALE)
     </footer>
   </div>
 );

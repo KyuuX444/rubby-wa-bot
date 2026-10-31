@@ -1,8 +1,14 @@
 {
-  "name": "whatsapp-bot-manager",
+  "name": "rubby-wa-bot",
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "author": "Kyuu (https://github.com/KyuuX444)",
+  "license": "SEE LICENSE IN LICENSE (NOT FOR SALE)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyuuX444/rubby-wa-bot.git"
+  },
   "scripts": {
     "dev": "tsx watch src/server/index.ts",
     "build:client": "vite build",

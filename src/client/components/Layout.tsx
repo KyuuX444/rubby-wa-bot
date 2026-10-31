@@ -353,8 +353,18 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
 
         <footer className="bg-[#FFFFFF] border-t border-[#EAEAEA] py-3.5 px-4 sm:px-6 lg:px-8">
           <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between text-[11px] text-[#666666] gap-2">
-            <span>Rubby WA Bot — Isolated Multi-Device WhatsApp Platform</span>
-            <span className="font-mono">Powered by ruby-baileys</span>
+            <span>
+              Rubby WA Bot • Created by{' '}
+              <a
+                href="https://github.com/KyuuX444"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-semibold text-[#171717] hover:underline"
+              >
+                Kyuu (@KyuuX444)
+              </a>
+            </span>
+            <span className="font-mono">License: NOT FOR SALE • Powered by ruby-baileys</span>
           </div>
         </footer>
       </div>
